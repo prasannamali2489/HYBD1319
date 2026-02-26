@@ -1,0 +1,4 @@
+MI=["Rohit Sharma", "Ryan Rickelton (WK)", "Tilak Varma", "Suryakumar Yadav","Hardik Pandya (c)","Sherfane Rutherford","Naman Dhir","Quenton decock","Mitchell Santner", "","Trent Boult", "Jasprit Bumrah"]
+GT = ["Shubman Gill (c)", "Jos Buttler (WK)", "Sai Sudharsan", "Washington Sundar", "Rahul Tewatia", "Jason Holder", "Rashid Khan", "R Sai Kishore", "Kagiso Rabada", "Mohammed Siraj", "Prasidh Krishna"]
+RCB= ["Virat Kohli", "Phil Salt (WK)", "Rajat Patidar (c)", "Cameron Green", "Jitesh Sharma", "Romario Shepherd", "Krunal Pandya", "Bhuvneshwar Kumar", "Josh Hazlewood", "Yash Dayal", "Suyash Sharma"]
+PBKS= ["Prabhsimran Singh (WK)", "Priyansh Arya", "Shreyas Iyer (c)", "Nehal Wadhera", "Marcus Stoinis", "Glenn Maxwell", "Marcus Harris", "Marco Jansen", "Arshdeep Singh", "Yuzvendra Chahal", "Harpreet Brar"]
